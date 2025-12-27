@@ -1,0 +1,16 @@
+# Python temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+
+# Project Specific Logs
+bt_intelligence_log.json
+
+# System files
+.DS_Store
+Thumbs.db
